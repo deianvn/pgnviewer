@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Projects/ebooster-locations-connector" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/fulfillment-asn-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/fulfillment-best-before-frontend-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/fulfillment-best-before-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/fulfillment-goods-in-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/fulfillment-knapp-http-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/fulfillment-og-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/junior/product-catalog-server/server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/learn/kotlin-koans" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/rivals/service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+</project>

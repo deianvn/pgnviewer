@@ -1,0 +1,16 @@
+
+©
+java:S1130C"†Remove the declaration of thrown exception 'com.github.deianvn.pgnparse.PGNParseException', as it cannot be thrown from method's body.(Øû®ùüÿÿÿÿ8À€Ô±Ê.
+]
+java:S11929"GDefine a constant instead of duplicating this literal "Result" 3 times.(ÜèÜ´
+a
+java:S11921"FDefine a constant instead of duplicating this literal "White" 3 times.(¾Œ«ûÿÿÿÿ
+Z
+java:S11923"FDefine a constant instead of duplicating this literal "Black" 3 times.(ÌÕ
+
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8¦ÖÔ±Ê.
+\
+java:S11927"FDefine a constant instead of duplicating this literal "Event" 3 times.(¦é°Ğ
+m
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Øû®ùüÿÿÿÿ
